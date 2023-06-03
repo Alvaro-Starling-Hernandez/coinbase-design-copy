@@ -97,10 +97,6 @@
   font-weight: 600;
 }
 
-html {
-  min-width: 100vw;
-}
-
 body {
   padding: 0;
   margin: 0;
